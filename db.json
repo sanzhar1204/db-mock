@@ -5,6 +5,12 @@
       "title": "My vacation",
       "imageUrl": "https://i.picsum.photos/id/185/536/354.jpg?hmac=9ARfT6fmTsEYKCaEW42cwv5qHt3DgH8d662IYItP1gA",
       "text": "hello, I had a good vacation"
+    },
+    {
+      "id": "2",
+      "title": "One more post",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/P.t.altaica_Tomak_Male.jpg/1280px-P.t.altaica_Tomak_Male.jpg",
+      "text": "hello, It's a second post just to test"
     }
   ],
   "comments": [
@@ -32,6 +38,21 @@
       "userName": "Benedict",
       "text": "yoyoy",
       "postId": 1
+    },
+    {
+      "userName": "Mark",
+      "text": "Such a tiger",
+      "postId": 2
+    },
+    {
+      "userName": "Benedict",
+      "text": "Im first",
+      "postId": 2
+    },
+    {
+      "userName": "Benedict",
+      "text": "Opps, not :((",
+      "postId": 2
     }
   ]
 }
