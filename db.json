@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My vacation",
+      "imageUrl": "https://i.picsum.photos/id/185/536/354.jpg?hmac=9ARfT6fmTsEYKCaEW42cwv5qHt3DgH8d662IYItP1gA",
+      "text": "hello, I had a good vacation",
+      "comments": [
+        {
+          "userName": "Ivan",
+          "text": "hello"
+        },
+        {
+          "userName": "Maria",
+          "text": "Hi, how are u?"
+        },
+        {
+          "userName": "Sanzhar",
+          "text": "hey dude"
+        },
+        {
+          "userName": "Mark",
+          "text": "sql injection"
+        },
+        {
+          "userName": "Benedict",
+          "text": "yoyoy"
+        }
+      ]
+    }
+  ]
+}
